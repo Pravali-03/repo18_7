@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: kubepro
-          image: vinodhconnects/web234
+          image: pravallika9603/docker-static-webt
           ports:
             - containerPort: 80
          
